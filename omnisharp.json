@@ -1,13 +1,13 @@
 {
     "FormattingOptions": {
-        // Indenting
+        //Indenting
         "UseTabs": false,
         "IndentationSize": 4,
         "IndentBraces": false,
         "IndentBlock": true,
         "IndentSwitchSection": true,
         "IndentSwitchCaseSection": true,
-        // Spaces
+        //Spaces
         "SpacingAfterMethodDeclarationName": true,
         "SpaceWithinMethodDeclarationParenthesis": false,
         "SpaceBetweenEmptyMethodDeclarationParentheses": false,
@@ -32,10 +32,10 @@
         "SpaceBeforeDot": false,
         "SpaceBeforeSemicolonsInForStatement": false,
         "SpacingAroundBinaryOperator": "single",
-        // Wrapping
+        //Wrapping
         "WrappingPreserveSingleLine": false,
         "WrappingKeepStatementsOnSingleLine": false,
-        // New lines
+        //New lines
         "NewLinesForBracesInTypes": true,
         "NewLinesForBracesInMethods": true,
         "NewLinesForBracesInProperties": true,
@@ -51,7 +51,7 @@
         "NewLineForCatch": false,
         "NewLineForFinally": false,
         "NewLineForClausesInQuery": false,
-        // Other
+        //Other
         "LabelPositioning": "oneLess"
     }
 }
