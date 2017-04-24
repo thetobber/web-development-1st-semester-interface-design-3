@@ -1,5 +1,5 @@
-## Group Assignment 3: Full High-Fidelity & Interactive Prototype Implementation
-#### Deadline: Friday, 5th May 2017, 23:59
+## Group Assignment 3
+#### Full High-Fidelity & Interactive Prototype Implementation <br> Deadline: Friday, 5th May 2017, 23:59
 
 Your third project is based on all the previous assignments you have completed so far, meaning that now it’s time to _put all the pieces together_ and build a **complete prototype of your flight booking system.**
 The prototype is to be developed in HTML, CSS (Sass), Javascript & other languages or libraries you believe are needed.
